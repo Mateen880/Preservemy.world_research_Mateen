@@ -1,2 +1,2 @@
-for _ in range(5):
-    print("* " * 5)
+for _ in range(6):
+    print("* " * 6)
